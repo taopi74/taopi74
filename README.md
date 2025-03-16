@@ -1,55 +1,34 @@
 ✨ Hi there, I'm Tarqul Alam Opi 👋  
-
 <br><br>
-
 🚀 <b>About Me</b>  
 I am a <b>Junior Python Developer</b> currently working at <b>DhakaRobotics.com</b> and <b>Geospace</b>.  
 I hold a <b>BSc in Computer Science & Engineering</b> from <b>Green University of Bangladesh (GUB)</b>.  
-
 <br><br>
-
 Passionate about <b>software development, AI Agent development, and testing</b>,  
 I enjoy solving complex problems and contributing to <b>open-source projects</b> and <b>tech communities</b>.  
-
 <br><br>
-
 🛠️ <b>Skills</b>  
-
 <br>
-
 🔹 <b>Programming Languages:</b> Java | Python | C++ | Dart | PHP  
 🔹 <b>Testing & QA:</b> Manual Testing | Automation Testing | Selenium | Postman | API Testing  
 🔹 <b>Frameworks & Tools:</b> Spring Boot | Django | Laravel | React | GitHub | CI/CD  
 🔹 <b>Other:</b> Linux | Agile | JIRA | Bugzilla  
-
 <br><br>
-
 🗂️ <b>Projects</b>  
-
 <br>
-
 ✅ <b>AI-Powered Chatbot</b> – Built a smart chatbot using <b>Python + NLP</b>.  
 🔍 <b>Test Automation Suite</b> – Developed an automation testing framework using <b>Selenium & Python</b>.  
 📱 <b>Inventory Management App</b> – Created a <b>Flutter app</b> with QR Code scanning & Firebase integration.  
-
 <br><br>
-
 📚 <b>Publications & Research</b>  
-
 <br>
-
 🔸 Conducted research on <b>Autonomous Vehicles, AI in Traffic Systems, and Deep Learning</b>.  
 🔸 Worked on <b>AI Generative Models & Transformer-based NLP Systems</b> like <b>GPT-3/GPT-4</b>.  
-
 <br><br>
-
 📊 <b>This Week I Spent My Time On</b>  
 ✅ <b>Problem Solving</b> | ✅ <b>Testing Automation</b> | ✅ <b>AI Research</b>  
-
 <br><br>
-
 📫 <b>Let's connect and collaborate!</b> 🚀  
-
 
 
 ## 🌐 Socials:
