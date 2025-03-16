@@ -3,7 +3,6 @@
 🚀 <b>About Me</b>  
 I am a <b>Junior Python Developer</b> currently working at <b>DhakaRobotics.com</b> and <b>Geospace</b>.  
 I hold a <b>BSc in Computer Science & Engineering</b> from <b>Green University of Bangladesh (GUB)</b>.  
-<br><br>
 Passionate about <b>software development, AI Agent development, and testing</b>,  
 I enjoy solving complex problems and contributing to <b>open-source projects</b> and <b>tech communities</b>.  
 <br><br>
