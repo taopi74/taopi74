@@ -7,9 +7,9 @@ Passionate about <b>software development, AI Agent development, and testing</b>,
 🛠️ <b>Skills</b>  
 <br>
 🔹 <b>Programming Languages:</b> Java | Python | C++ | Dart | PHP  
-🔹 <b>Testing & QA:</b> Manual Testing | Automation Testing | Selenium | Postman | API Testing  
-🔹 <b>Frameworks & Tools:</b> Spring Boot | Django | Laravel | React | GitHub | CI/CD  
-🔹 <b>Other:</b> Linux | Agile | JIRA | Bugzilla  
+🔹 <b>Testing & QA:</b> Manual Testing | Automation Testing | Selenium | Postman | API Testing | Agile | JIRA | Bugzilla 
+🔹 <b>Frameworks & Tools:</b>| Django | Flutter | Java | GitHub | CI/CD  
+🔹 <b>Scraping:</b>  | BeautifulSoup | Selenium | Scrapy  
 <br><br>
 🗂️ <b>Projects</b>  
 <br>
