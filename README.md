@@ -1,22 +1,36 @@
 ✨ Hi there, I'm Tarqul Alam Opi 👋  
 <br><br>
 🚀 <b>About Me</b>  
-I am a <b>Junior Python Developer</b> currently working at <b>DhakaRobotics.com</b> and <b>Geospace</b>.I hold a <b>BSc in Computer Science & Engineering</b> from <b>Green University of Bangladesh (GUB)</b>.  
+I am a <b>Junior Python django Developer</b> currently working at <b>DhakaRobotics.com</b> and <b>Geospace</b>.I hold a <b>BSc in Computer Science & Engineering</b> from <b>Green University of Bangladesh (GUB)</b>.  
 Passionate about <b>software development, AI Agent development, and testing</b>,I enjoy solving complex problems and contributing to <b>open-source projects</b> and <b>tech communities</b>.  
 <br><br>
 🛠️ <b>Skills</b>  
 <br>
-🔹 <b>Programming Languages:</b> Java | Python | C++ | Dart | PHP  
-🔹 <b>Testing & QA:</b> Manual Testing | Automation Testing | Selenium | Postman | API Testing | Agile | JIRA | Bugzilla </b>
-🔹 <b>Frameworks & Tools:</b>| Django | Flutter | Java | GitHub | CI/CD  
-🔹 <b>Scraping:</b>  | BeautifulSoup | Selenium | Scrapy  
+🔹 <b>Programming Languages:</b>  Python | C++ | Dart </b>
+🔹 <b>Testing & QA:</b> Manual Testing | Automation Testing | Selenium | Postman | API Testing | Bugzilla </b>
+🔹 <b>Frameworks & Tools:</b>| Django | Flutter | Java | GitHub | CI/CD  </b>
+🔹 <b>Scraping:</b>  | BeautifulSoup | Selenium | Scrapy  </b>
 <br><br>
 🗂️ <b>Projects</b>  
-<br>
-✅ <b>AI-Powered Chatbot</b> – Built a smart chatbot using <b>Python + NLP</b>.  
-🔍 <b>Test Automation Suite</b> – Developed an automation testing framework using <b>Selenium & Python</b>.  
-📱 <b>Inventory Management App</b> – Created a <b>Flutter app</b> with QR Code scanning & Firebase integration.  
-<br><br>
+Here are some of the key projects I've worked on:
+
+- 🤖 **AI Interviewer Agent**
+  - A full-stack AI agent with a voice interface built using **Python, Django, & the Google Gemini API**. It conducts real-time interviews, processes PDF resumes, and provides performance feedback.
+  - **Live Demo:** [ai-interviewer-opi.onrender.com](https://ai-interviewer-opi.onrender.com/)
+
+- 🌐 **Web App Testing with AI**
+  - An interactive web application for automated testing, developed with **Python & Streamlit**.
+  - **Live Demo:** [webtestingai.streamlit.app](https://webtestingai.streamlit.app/)
+
+- ✅ **AI-Powered Chatbot**
+  - A smart, conversational chatbot built using **Python & Natural Language Processing (NLP)** techniques.
+
+- 🔍 **Test Automation Suite**
+  - A robust framework for automated software testing, developed using **Selenium & Python**.
+
+- 📱 **Inventory Management App**
+  - A cross-platform mobile application for inventory tracking with QR code scanning, built with **Flutter & Firebase**.
+
 📚 <b>Publications & Research</b>  
 <br>
 🔸 Conducted research on <b>Autonomous Vehicles, AI in Traffic Systems, and Deep Learning</b>.  
